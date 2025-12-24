@@ -2,14 +2,6 @@
   "version": "1.0",
   "collections": [
     {
-      "id": "col-1766553066707-3ejowod",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766553066707,
-      "updatedAt": 1766553066707
-    },
-    {
       "id": "col-1766553066708-8eif2l9",
       "name": "Testing",
       "description": "",
