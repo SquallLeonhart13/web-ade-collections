@@ -2,22 +2,6 @@
   "version": "1.0",
   "collections": [
     {
-      "id": "col-1766547658205-8h1tu44",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766547658205,
-      "updatedAt": 1766547658205
-    },
-    {
-      "id": "col-1766547658205-ijjzg5e",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766547658205,
-      "updatedAt": 1766547658205
-    },
-    {
       "id": "col-1766553066707-3ejowod",
       "name": "Testing",
       "description": "",
@@ -96,6 +80,22 @@
       "icon": "FolderOpen",
       "createdAt": 1766553471794,
       "updatedAt": 1766553471794
+    },
+    {
+      "id": "col-1766547658205-8h1tu44",
+      "name": "Testing",
+      "description": "",
+      "icon": "FolderOpen",
+      "createdAt": 1766547658205,
+      "updatedAt": 1766547658205
+    },
+    {
+      "id": "col-1766547658205-ijjzg5e",
+      "name": "Testing",
+      "description": "",
+      "icon": "FolderOpen",
+      "createdAt": 1766547658205,
+      "updatedAt": 1766547658205
     }
   ]
 }
