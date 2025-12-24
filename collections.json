@@ -1,12 +1,11 @@
 {
-  "version": 1,
+  "version": "1.0",
   "collections": [
     {
       "id": "col-1766536491475-u2kes1t",
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [],
       "createdAt": 1766536491475,
       "updatedAt": 1766536491475
     },
@@ -15,7 +14,6 @@
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [],
       "createdAt": 1766544027536,
       "updatedAt": 1766544027536
     },
@@ -24,7 +22,6 @@
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [],
       "createdAt": 1766547658205,
       "updatedAt": 1766547658205
     },
@@ -33,7 +30,6 @@
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [],
       "createdAt": 1766547658205,
       "updatedAt": 1766547658205
     },
@@ -42,10 +38,8 @@
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [],
       "createdAt": 1766547658205,
       "updatedAt": 1766547658205
     }
-  ],
-  "updatedAt": 1766549021349
+  ]
 }
