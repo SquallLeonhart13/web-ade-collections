@@ -2,12 +2,12 @@
   "version": "1.0",
   "collections": [
     {
-      "id": "col-1766554913344-9phiu0w",
-      "name": "My First",
+      "id": "col-1766555008089-oag3dyl",
+      "name": "Cool Projects",
       "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766554913344,
-      "updatedAt": 1766554913344
+      "icon": "Cog",
+      "createdAt": 1766555008089,
+      "updatedAt": 1766555008089
     }
   ]
 }
