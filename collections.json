@@ -6,12 +6,10 @@
       "name": "Testing",
       "description": "",
       "icon": "FolderOpen",
-      "repositories": [
-        "alfonsograziano/a2ha"
-      ],
+      "repositories": [],
       "createdAt": 1766536491475,
       "updatedAt": 1766536491475
     }
   ],
-  "updatedAt": 1766542814311
+  "updatedAt": 1766542823421
 }
