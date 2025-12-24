@@ -2,30 +2,6 @@
   "version": "1.0",
   "collections": [
     {
-      "id": "col-1766553066708-8eif2l9",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766553066708,
-      "updatedAt": 1766553066708
-    },
-    {
-      "id": "col-1766542955811-ah6rg5j",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766542955811,
-      "updatedAt": 1766542955811
-    },
-    {
-      "id": "col-1766547448011-u53okiq",
-      "name": "Testing",
-      "description": "",
-      "icon": "FolderOpen",
-      "createdAt": 1766547448011,
-      "updatedAt": 1766547448011
-    },
-    {
       "id": "col-1766547448011-3t537dv",
       "name": "Testing",
       "description": "",
