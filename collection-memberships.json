@@ -1,4 +1,10 @@
 {
   "version": "1.0",
-  "memberships": []
+  "memberships": [
+    {
+      "repositoryId": "principal-ade/electron-app",
+      "collectionId": "col-1766602970252-188xynq",
+      "addedAt": 1766602983894
+    }
+  ]
 }
