@@ -24,6 +24,14 @@
       "icon": "FolderOpen",
       "createdAt": 1766761422406,
       "updatedAt": 1766761422406
+    },
+    {
+      "id": "col-1766761802534-2xzl7lz",
+      "name": "Open Telemetry Work",
+      "description": "",
+      "icon": "Cpu",
+      "createdAt": 1766761802534,
+      "updatedAt": 1766761802534
     }
   ]
 }
