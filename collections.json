@@ -2,14 +2,6 @@
   "version": "1.0",
   "collections": [
     {
-      "id": "col-1766555008089-oag3dyl",
-      "name": "Cool Projects",
-      "description": "",
-      "icon": "Cog",
-      "createdAt": 1766555008089,
-      "updatedAt": 1766555008089
-    },
-    {
       "id": "col-1766602970252-188xynq",
       "name": "User Facing Project",
       "description": "",
