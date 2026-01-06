@@ -40,6 +40,14 @@
       "icon": "Wrench",
       "createdAt": 1767296069938,
       "updatedAt": 1767296069938
+    },
+    {
+      "id": "col-1767711573358-inwl8wa",
+      "name": "Industry Theme Panels",
+      "description": "",
+      "icon": "FolderOpen",
+      "createdAt": 1767711573358,
+      "updatedAt": 1767711573358
     }
   ]
 }
