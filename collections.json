@@ -47,7 +47,7 @@
       "description": "",
       "icon": "FolderOpen",
       "createdAt": 1767711573358,
-      "updatedAt": 1771197787452,
+      "updatedAt": 1771197795425,
       "metadata": {
         "customRegions": [
           {
@@ -90,7 +90,8 @@
             "id": "region-1771197786992-xxls4rr",
             "createdAt": 1771197786992
           }
-        ]
+        ],
+        "layoutMode": "manual"
       }
     }
   ]
