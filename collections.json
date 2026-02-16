@@ -7,36 +7,36 @@
       "description": "",
       "icon": "FolderOpen",
       "createdAt": 1766602970252,
-      "updatedAt": 1771253970699,
+      "updatedAt": 1771253970730,
       "metadata": {
         "customRegions": [
           {
-            "id": "region-1771253970699-86m3v4u",
+            "id": "region-1771253970730-2g2wsz1",
             "name": "Last Month",
             "description": "Repositories edited in the last 30 days",
             "order": 0,
-            "createdAt": 1771253970699
+            "createdAt": 1771253970730
           },
           {
-            "id": "region-1771253970699-vc8pr69",
+            "id": "region-1771253970730-91pb9cy",
             "name": "Last 3 Months",
             "description": "Repositories edited in the last 90 days",
             "order": 1,
-            "createdAt": 1771253970699
+            "createdAt": 1771253970730
           },
           {
-            "id": "region-1771253970699-3eb68un",
+            "id": "region-1771253970730-vt2f4yw",
             "name": "Last Year",
             "description": "Repositories edited in the last 365 days",
             "order": 2,
-            "createdAt": 1771253970699
+            "createdAt": 1771253970730
           },
           {
-            "id": "region-1771253970699-cbghs1f",
+            "id": "region-1771253970730-tdsl61t",
             "name": "Older",
             "description": "Repositories not edited in over a year",
             "order": 3,
-            "createdAt": 1771253970699
+            "createdAt": 1771253970730
           }
         ],
         "layoutMode": "auto"
