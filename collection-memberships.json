@@ -240,6 +240,18 @@
           "isManuallyPositioned": true
         }
       }
+    },
+    {
+      "collectionId": "col-1767296069938-ij6f4bd",
+      "repositoryId": "principal-ai/agent-mail-core",
+      "addedAt": 1771270031438,
+      "metadata": {
+        "layout": {
+          "gridX": 6,
+          "gridY": 10,
+          "isManuallyPositioned": true
+        }
+      }
     }
   ]
 }
