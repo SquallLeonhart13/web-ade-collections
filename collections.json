@@ -47,7 +47,7 @@
       "description": "",
       "icon": "FolderOpen",
       "createdAt": 1767711573358,
-      "updatedAt": 1771200302311,
+      "updatedAt": 1771200310866,
       "metadata": {
         "customRegions": [
           {
@@ -113,6 +113,12 @@
             "order": 10,
             "id": "region-1771200301813-307zimt",
             "createdAt": 1771200301813
+          },
+          {
+            "name": "Region 11",
+            "order": 2,
+            "id": "region-1771200310336-fhl11h3",
+            "createdAt": 1771200310336
           }
         ],
         "layoutMode": "manual"
