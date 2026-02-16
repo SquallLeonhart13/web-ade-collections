@@ -247,6 +247,18 @@
           "isManuallyPositioned": true
         }
       }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-agent-driven-ui-panels",
+      "addedAt": 1771270446966,
+      "metadata": {
+        "layout": {
+          "gridX": 7,
+          "gridY": 2,
+          "isManuallyPositioned": true
+        }
+      }
     }
   ]
 }
