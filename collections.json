@@ -55,7 +55,40 @@
       "description": "",
       "icon": "FolderOpen",
       "createdAt": 1766761422406,
-      "updatedAt": 1766761422406
+      "updatedAt": 1771221173836,
+      "metadata": {
+        "customRegions": [
+          {
+            "id": "region-1771221173836-mi9w6x5",
+            "name": "Last Month",
+            "description": "Repositories edited in the last 30 days",
+            "order": 0,
+            "createdAt": 1771221173836
+          },
+          {
+            "id": "region-1771221173836-aw9nxs6",
+            "name": "Last 3 Months",
+            "description": "Repositories edited in the last 90 days",
+            "order": 1,
+            "createdAt": 1771221173836
+          },
+          {
+            "id": "region-1771221173836-wxwrbua",
+            "name": "Last Year",
+            "description": "Repositories edited in the last 365 days",
+            "order": 2,
+            "createdAt": 1771221173836
+          },
+          {
+            "id": "region-1771221173836-iuwbtz2",
+            "name": "Older",
+            "description": "Repositories not edited in over a year",
+            "order": 3,
+            "createdAt": 1771221173836
+          }
+        ],
+        "layoutMode": "auto"
+      }
     },
     {
       "id": "col-1766761802534-2xzl7lz",
