@@ -226,6 +226,18 @@
         "hasViews": false,
         "remoteUrl": "https://github.com/Principal-Forks/Backlog.md.git"
       }
+    },
+    {
+      "collectionId": "col-1766603009005-qitn25l",
+      "repositoryId": "principal-ai/alexandria-cli",
+      "addedAt": 1771269939159,
+      "metadata": {
+        "layout": {
+          "gridX": 9,
+          "gridY": 12,
+          "isManuallyPositioned": true
+        }
+      }
     }
   ]
 }
