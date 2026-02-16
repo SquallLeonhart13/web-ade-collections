@@ -71,7 +71,39 @@
       "description": "",
       "icon": "Wrench",
       "createdAt": 1767296069938,
-      "updatedAt": 1767296069938
+      "updatedAt": 1771217049966,
+      "metadata": {
+        "customRegions": [
+          {
+            "id": "region-1771217049550-ls9dme9",
+            "name": "Last Month",
+            "description": "Repositories edited in the last 30 days",
+            "order": 0,
+            "createdAt": 1771217049550
+          },
+          {
+            "id": "region-1771217049550-d6hqy83",
+            "name": "Last 3 Months",
+            "description": "Repositories edited in the last 90 days",
+            "order": 1,
+            "createdAt": 1771217049550
+          },
+          {
+            "id": "region-1771217049550-63w2el1",
+            "name": "Last Year",
+            "description": "Repositories edited in the last 365 days",
+            "order": 2,
+            "createdAt": 1771217049550
+          },
+          {
+            "id": "region-1771217049550-zf2tj0t",
+            "name": "Older",
+            "description": "Repositories not edited in over a year",
+            "order": 3,
+            "createdAt": 1771217049550
+          }
+        ]
+      }
     },
     {
       "id": "col-1767711573358-inwl8wa",
