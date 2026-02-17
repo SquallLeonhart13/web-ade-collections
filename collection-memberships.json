@@ -346,25 +346,25 @@
     },
     {
       "collectionId": "col-1771342395808-how4jvy",
-      "repositoryId": "principal-ade/panel-framework",
-      "addedAt": 1771342775278,
+      "repositoryId": "principal-ade/web-ade",
+      "addedAt": 1771342910621,
       "metadata": {
-        "name": "panel-framework",
+        "name": "web-ade",
         "github": {
-          "id": "principal-ade/panel-framework",
+          "id": "principal-ade/web-ade",
           "owner": "principal-ade",
-          "name": "panel-framework",
+          "name": "web-ade",
           "stars": 0,
-          "lastUpdated": "2025-10-29T12:19:24.107Z",
+          "lastUpdated": "2025-11-10T23:03:28.803Z",
           "isPublic": false,
-          "purl": "pkg:github/principal-ade/panel-framework"
+          "purl": "pkg:github/principal-ade/web-ade"
         },
         "hasViews": false,
-        "remoteUrl": "git@github.com:principal-ade/panel-framework.git",
+        "remoteUrl": "git@github.com:principal-ade/web-ade.git",
         "regionId": "region-0-0",
         "layout": {
-          "gridX": 19,
-          "gridY": 19
+          "gridX": 8,
+          "gridY": 3
         }
       }
     }
