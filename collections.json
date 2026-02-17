@@ -94,7 +94,7 @@
       "description": "",
       "icon": "FolderOpen",
       "createdAt": 1766761422406,
-      "updatedAt": 1771221173850,
+      "updatedAt": 1771295833187,
       "metadata": {
         "customRegions": [
           {
@@ -124,9 +124,15 @@
             "description": "Repositories not edited in over a year",
             "order": 3,
             "createdAt": 1771221173849
+          },
+          {
+            "name": "Region 5",
+            "order": 10,
+            "id": "region-1771295832679-fzna1l3",
+            "createdAt": 1771295832679
           }
         ],
-        "layoutMode": "auto"
+        "layoutMode": "manual"
       }
     },
     {
