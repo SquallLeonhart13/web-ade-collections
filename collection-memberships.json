@@ -301,6 +301,33 @@
           "gridY": 8
         }
       }
+    },
+    {
+      "collectionId": "col-1767296069938-ij6f4bd",
+      "repositoryId": "Principal-Forks/Backlog.md",
+      "addedAt": 1771288834342,
+      "metadata": {
+        "name": "Backlog.md",
+        "github": {
+          "id": "Principal-Forks/Backlog.md",
+          "owner": "Principal-Forks",
+          "name": "Backlog.md",
+          "stars": 0,
+          "lastUpdated": "2025-12-12T05:55:56.595Z",
+          "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+          "language": "TypeScript",
+          "defaultBranch": "main",
+          "topics": [],
+          "isPublic": true,
+          "purl": "pkg:github/Principal-Forks/Backlog.md"
+        },
+        "hasViews": false,
+        "remoteUrl": "https://github.com/Principal-Forks/Backlog.md.git",
+        "layout": {
+          "gridX": 8,
+          "gridY": 8
+        }
+      }
     }
   ]
 }
