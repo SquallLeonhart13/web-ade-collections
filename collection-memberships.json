@@ -296,6 +296,18 @@
         },
         "regionId": "region-1771253970730-2g2wsz1"
       }
+    },
+    {
+      "collectionId": "col-1766602970252-188xynq",
+      "repositoryId": "principal-ade/landing-page",
+      "addedAt": 1771341563491,
+      "metadata": {
+        "layout": {
+          "gridX": 15,
+          "gridY": 6
+        },
+        "regionId": "region-1771253970730-2g2wsz1"
+      }
     }
   ]
 }
