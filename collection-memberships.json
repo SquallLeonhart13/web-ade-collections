@@ -346,6 +346,30 @@
     },
     {
       "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/panel-framework",
+      "addedAt": 1771342775278,
+      "metadata": {
+        "name": "panel-framework",
+        "github": {
+          "id": "principal-ade/panel-framework",
+          "owner": "principal-ade",
+          "name": "panel-framework",
+          "stars": 0,
+          "lastUpdated": "2025-10-29T12:19:24.107Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/panel-framework"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/panel-framework.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 19,
+          "gridY": 19
+        }
+      }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
       "repositoryId": "principal-ade/web-ade",
       "addedAt": 1771342910621,
       "metadata": {
@@ -365,6 +389,34 @@
         "layout": {
           "gridX": 8,
           "gridY": 3
+        }
+      }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
+      "addedAt": 1771342912281,
+      "metadata": {
+        "name": "industry-themed-alexandria-docs-panel",
+        "github": {
+          "id": "principal-ade/industry-themed-alexandria-docs-panel",
+          "owner": "principal-ade",
+          "name": "industry-themed-alexandria-docs-panel",
+          "stars": 0,
+          "lastUpdated": "2025-11-14T12:57:22.951Z",
+          "description": null,
+          "language": null,
+          "defaultBranch": "main",
+          "topics": [],
+          "isPublic": true,
+          "purl": "pkg:github/principal-ade/industry-themed-alexandria-docs-panel"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/industry-themed-alexandria-docs-panel.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 2,
+          "gridY": 2
         }
       }
     }
