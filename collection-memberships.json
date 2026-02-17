@@ -317,6 +317,17 @@
           "gridY": 2
         }
       }
+    },
+    {
+      "collectionId": "col-1766761422406-rwinbdu",
+      "repositoryId": "principal-ai/pixel-debate-webapp",
+      "addedAt": 1771288340569,
+      "metadata": {
+        "layout": {
+          "gridX": 3,
+          "gridY": 8
+        }
+      }
     }
   ]
 }
