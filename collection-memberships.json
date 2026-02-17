@@ -276,6 +276,18 @@
         },
         "regionId": "region-1771217045346-c8s8ztc"
       }
+    },
+    {
+      "collectionId": "col-1766603009005-qitn25l",
+      "repositoryId": "principal-ai/principal-view-core-library",
+      "addedAt": 1771341142561,
+      "metadata": {
+        "layout": {
+          "gridX": 2,
+          "gridY": 2
+        },
+        "regionId": "region-1771217045346-c8s8ztc"
+      }
     }
   ]
 }
