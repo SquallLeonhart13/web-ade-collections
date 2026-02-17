@@ -343,30 +343,6 @@
           "gridY": 9
         }
       }
-    },
-    {
-      "collectionId": "col-1771342395808-how4jvy",
-      "repositoryId": "principal-ade/panel-framework",
-      "addedAt": 1771342415678,
-      "metadata": {
-        "name": "panel-framework",
-        "github": {
-          "id": "principal-ade/panel-framework",
-          "owner": "principal-ade",
-          "name": "panel-framework",
-          "stars": 0,
-          "lastUpdated": "2025-10-29T12:19:24.107Z",
-          "isPublic": false,
-          "purl": "pkg:github/principal-ade/panel-framework"
-        },
-        "hasViews": false,
-        "remoteUrl": "git@github.com:principal-ade/panel-framework.git",
-        "regionId": "region-0-0",
-        "layout": {
-          "gridX": 2,
-          "gridY": 2
-        }
-      }
     }
   ]
 }
