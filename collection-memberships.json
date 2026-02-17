@@ -429,33 +429,6 @@
           "gridY": 9
         }
       }
-    },
-    {
-      "collectionId": "col-1771342395808-how4jvy",
-      "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
-      "addedAt": 1771343147190,
-      "metadata": {
-        "name": "industry-themed-alexandria-docs-panel",
-        "github": {
-          "id": "principal-ade/industry-themed-alexandria-docs-panel",
-          "owner": "principal-ade",
-          "name": "industry-themed-alexandria-docs-panel",
-          "stars": 0,
-          "lastUpdated": "2025-11-14T12:57:22.951Z",
-          "description": null,
-          "language": null,
-          "defaultBranch": "main",
-          "topics": [],
-          "isPublic": true,
-          "purl": "pkg:github/principal-ade/industry-themed-alexandria-docs-panel"
-        },
-        "hasViews": false,
-        "remoteUrl": "git@github.com:principal-ade/industry-themed-alexandria-docs-panel.git",
-        "layout": {
-          "gridX": 5,
-          "gridY": 11
-        }
-      }
     }
   ]
 }
