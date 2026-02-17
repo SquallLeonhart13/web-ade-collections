@@ -300,6 +300,17 @@
           "gridY": 2
         }
       }
+    },
+    {
+      "collectionId": "col-1766602970252-188xynq",
+      "repositoryId": "principal-ade/landing-page",
+      "addedAt": 1771294870752,
+      "metadata": {
+        "layout": {
+          "gridX": 15,
+          "gridY": 6
+        }
+      }
     }
   ]
 }
