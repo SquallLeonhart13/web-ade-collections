@@ -185,18 +185,6 @@
       }
     },
     {
-      "collectionId": "col-1766761802534-2xzl7lz",
-      "repositoryId": "principal-ai/principal-view-core-library",
-      "addedAt": 1771290129446,
-      "metadata": {
-        "regionId": "region-0-0",
-        "layout": {
-          "gridX": 2,
-          "gridY": 2
-        }
-      }
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-ai-sdk-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711610086
@@ -291,17 +279,6 @@
         "layout": {
           "gridX": 5,
           "gridY": 7
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-theme-editor-panel",
-      "addedAt": 1771291651998,
-      "metadata": {
-        "layout": {
-          "gridX": 2,
-          "gridY": 12
         }
       }
     }
