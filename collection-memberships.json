@@ -241,28 +241,6 @@
       }
     },
     {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "salasnat1/Pixel",
-      "addedAt": 1771335863331,
-      "metadata": {
-        "layout": {
-          "gridX": 6,
-          "gridY": 8
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "principal-ai/pixel-debate-webapp",
-      "addedAt": 1771336663889,
-      "metadata": {
-        "layout": {
-          "gridX": 10,
-          "gridY": 8
-        }
-      }
-    },
-    {
       "collectionId": "col-1766603009005-qitn25l",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771339445300,
