@@ -419,29 +419,6 @@
       }
     },
     {
-      "collectionId": "col-1771342395808-how4jvy",
-      "repositoryId": "principal-ade/industry-themed-markdown-panels",
-      "addedAt": 1771355914759,
-      "metadata": {
-        "name": "industry-themed-markdown-panels",
-        "github": {
-          "id": "principal-ade/industry-themed-markdown-panels",
-          "owner": "principal-ade",
-          "name": "industry-themed-markdown-panels",
-          "stars": 0,
-          "lastUpdated": "2025-11-14T03:33:11.563Z",
-          "description": null,
-          "language": null,
-          "defaultBranch": "main",
-          "topics": [],
-          "isPublic": true,
-          "purl": "pkg:github/principal-ade/industry-themed-markdown-panels"
-        },
-        "hasViews": false,
-        "remoteUrl": "git@github.com:principal-ade/industry-themed-markdown-panels.git"
-      }
-    },
-    {
       "collectionId": "col-1767711573358-inwl8wa",
       "repositoryId": "principal-ade/industry-themed-principal-view-panels",
       "addedAt": 1771355958196,
