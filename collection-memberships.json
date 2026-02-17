@@ -429,6 +429,30 @@
         "hasViews": false,
         "remoteUrl": "git@github.com:principal-ade/dynamic-file-tree.git"
       }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/web-ade",
+      "addedAt": 1771343145790,
+      "metadata": {
+        "name": "web-ade",
+        "github": {
+          "id": "principal-ade/web-ade",
+          "owner": "principal-ade",
+          "name": "web-ade",
+          "stars": 0,
+          "lastUpdated": "2025-11-10T23:03:28.803Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/web-ade"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/web-ade.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 11,
+          "gridY": 9
+        }
+      }
     }
   ]
 }
