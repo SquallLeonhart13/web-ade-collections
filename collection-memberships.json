@@ -300,6 +300,17 @@
           "gridY": 7
         }
       }
+    },
+    {
+      "collectionId": "col-1767296069938-ij6f4bd",
+      "repositoryId": "principal-ai/agent-mail-core",
+      "addedAt": 1771339932629,
+      "metadata": {
+        "layout": {
+          "gridX": 13,
+          "gridY": 4
+        }
+      }
     }
   ]
 }
