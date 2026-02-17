@@ -300,17 +300,6 @@
         },
         "regionId": "region-1771221173849-c3il49q"
       }
-    },
-    {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "salasnat1/Pixel",
-      "addedAt": 1771340613212,
-      "metadata": {
-        "layout": {
-          "gridX": 11,
-          "gridY": 8
-        }
-      }
     }
   ]
 }
