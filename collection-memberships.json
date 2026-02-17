@@ -27,18 +27,6 @@
       "addedAt": 1767711620267
     },
     {
-      "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "principal-ai/alexandria-cli",
-      "addedAt": 1771269939159,
-      "metadata": {
-        "layout": {
-          "gridX": 9,
-          "gridY": 12,
-          "isManuallyPositioned": true
-        }
-      }
-    },
-    {
       "collectionId": "col-1767711573358-inwl8wa",
       "repositoryId": "principal-ade/industry-themed-agent-driven-ui-panels",
       "addedAt": 1771270446966,
@@ -249,17 +237,6 @@
         "layout": {
           "gridX": 6,
           "gridY": 6
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "principal-ai/principal-view-core-library",
-      "addedAt": 1771297321619,
-      "metadata": {
-        "layout": {
-          "gridX": 35,
-          "gridY": 18
         }
       }
     },
