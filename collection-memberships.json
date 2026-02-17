@@ -220,17 +220,6 @@
       }
     },
     {
-      "collectionId": "col-1767296069938-ij6f4bd",
-      "repositoryId": "principal-ai/agent-mail-core",
-      "addedAt": 1771290112607,
-      "metadata": {
-        "layout": {
-          "gridX": 8,
-          "gridY": 2
-        }
-      }
-    },
-    {
       "collectionId": "col-1766761802534-2xzl7lz",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771290129446,
