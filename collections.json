@@ -135,7 +135,17 @@
       "description": "",
       "icon": "Cpu",
       "createdAt": 1766761802534,
-      "updatedAt": 1766761802534
+      "updatedAt": 1771290128457,
+      "metadata": {
+        "customRegions": [
+          {
+            "id": "region-0-0",
+            "name": "Older",
+            "order": 0,
+            "createdAt": 1771290127951
+          }
+        ]
+      }
     },
     {
       "id": "col-1767296069938-ij6f4bd",
