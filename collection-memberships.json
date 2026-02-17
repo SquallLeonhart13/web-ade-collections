@@ -230,18 +230,6 @@
       }
     },
     {
-      "collectionId": "col-1766761802534-2xzl7lz",
-      "repositoryId": "principal-ai/principal-view-core-library",
-      "addedAt": 1771293651144,
-      "metadata": {
-        "regionId": "region-0-0",
-        "layout": {
-          "gridX": 10,
-          "gridY": 8
-        }
-      }
-    },
-    {
       "collectionId": "col-1766761422406-rwinbdu",
       "repositoryId": "principal-ai/pixel-debate-webapp",
       "addedAt": 1771293677742,
