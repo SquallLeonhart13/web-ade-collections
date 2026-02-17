@@ -292,26 +292,13 @@
     },
     {
       "collectionId": "col-1767296069938-ij6f4bd",
-      "repositoryId": "principal-ai/agent-mail-core",
-      "addedAt": 1771339899447,
-      "metadata": {
-        "layout": {
-          "gridX": 10,
-          "gridY": 6
-        },
-        "regionId": "region-1771217049550-ls9dme9"
-      }
-    },
-    {
-      "collectionId": "col-1767296069938-ij6f4bd",
       "repositoryId": "principal-ai/Backlog-Core",
-      "addedAt": 1771339900139,
+      "addedAt": 1771339905317,
       "metadata": {
         "layout": {
-          "gridX": 5,
+          "gridX": 8,
           "gridY": 7
-        },
-        "regionId": "region-1771217049550-ls9dme9"
+        }
       }
     }
   ]
