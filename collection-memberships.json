@@ -2,6 +2,11 @@
   "version": "1.0",
   "memberships": [
     {
+      "repositoryId": "principal-ade/electron-app",
+      "collectionId": "col-1766602970252-188xynq",
+      "addedAt": 1766602983894
+    },
+    {
       "repositoryId": "MrLesk/Backlog.md",
       "collectionId": "col-1767296069938-ij6f4bd",
       "addedAt": 1767296094674
@@ -265,17 +270,6 @@
         "layout": {
           "gridX": 7,
           "gridY": 8
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "principal-ai/pixel-debate-webapp",
-      "addedAt": 1771293543223,
-      "metadata": {
-        "layout": {
-          "gridX": 12,
-          "gridY": 5
         }
       }
     },
