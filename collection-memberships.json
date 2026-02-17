@@ -278,6 +278,17 @@
           "gridY": 5
         }
       }
+    },
+    {
+      "collectionId": "col-1766602970252-188xynq",
+      "repositoryId": "principal-ade/web-ade",
+      "addedAt": 1771293582876,
+      "metadata": {
+        "layout": {
+          "gridX": 9,
+          "gridY": 5
+        }
+      }
     }
   ]
 }
