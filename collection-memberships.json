@@ -289,6 +289,17 @@
           "gridY": 5
         }
       }
+    },
+    {
+      "collectionId": "col-1766602970252-188xynq",
+      "repositoryId": "principal-ade/landing-page",
+      "addedAt": 1771293583502,
+      "metadata": {
+        "layout": {
+          "gridX": 14,
+          "gridY": 2
+        }
+      }
     }
   ]
 }
