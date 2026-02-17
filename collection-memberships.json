@@ -87,44 +87,14 @@
       "addedAt": 1767711654223
     },
     {
-      "repositoryId": "principal-ade/industry-themed-file-city-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711664095
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-file-editing-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711666862
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-gamboy-emulator-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711674603
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711677303
     },
     {
-      "repositoryId": "principal-ade/industry-themed-git-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711679555
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-git-sync-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711682422
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-github-panels",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711684778
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-markdown-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711690310
     },
     {
       "repositoryId": "principal-ade/industry-themed-principal-view-panels",
@@ -137,19 +107,9 @@
       "addedAt": 1767711697271
     },
     {
-      "repositoryId": "principal-ade/industry-themed-repository-composition-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711701231
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-theme-editor-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711704234
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-xterm-terminal-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711706622
     },
     {
       "collectionId": "col-1766603009005-qitn25l",
@@ -261,6 +221,17 @@
         "layout": {
           "gridX": 8,
           "gridY": 2
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-localhost-panels",
+      "addedAt": 1771287095152,
+      "metadata": {
+        "layout": {
+          "gridX": 23,
+          "gridY": 17
         }
       }
     }
