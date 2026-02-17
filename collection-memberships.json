@@ -12,37 +12,9 @@
       "addedAt": 1767711628665
     },
     {
-      "repositoryId": "principal-ade/industry-themed-agent-activity-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711597227
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-codebase-composition-panels",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711633886
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-agent-driven-ui-panels",
-      "addedAt": 1771270446966,
-      "metadata": {
-        "layout": {
-          "gridX": 7,
-          "gridY": 2,
-          "isManuallyPositioned": true
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
-      "addedAt": 1771291650874,
-      "metadata": {
-        "layout": {
-          "gridX": 5,
-          "gridY": 7
-        }
-      }
     },
     {
       "collectionId": "col-1766761802534-2xzl7lz",
@@ -55,6 +27,11 @@
           "gridY": 6
         }
       }
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711620267
     },
     {
       "collectionId": "col-1766603009005-qitn25l",
@@ -81,6 +58,43 @@
       }
     },
     {
+      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711677303
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-localhost-panels",
+      "addedAt": 1771287095152,
+      "metadata": {
+        "layout": {
+          "gridX": 23,
+          "gridY": 17
+        }
+      }
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-ai-sdk-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711610086
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711677303
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-backlogmd-kanban-panel",
+      "addedAt": 1771290155912,
+      "metadata": {
+        "layout": {
+          "gridX": 23,
+          "gridY": 17
+        }
+      }
+    },
+    {
       "collectionId": "col-1766603009005-qitn25l",
       "repositoryId": "Principal-Forks/Backlog.md",
       "addedAt": 1771341155314,
@@ -104,6 +118,17 @@
         "layout": {
           "gridX": 14,
           "gridY": 5
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-argdown-panels",
+      "addedAt": 1771290347337,
+      "metadata": {
+        "layout": {
+          "gridX": 20,
+          "gridY": 2
         }
       }
     },
@@ -157,6 +182,17 @@
           "gridY": 5
         },
         "regionId": "region-1771217049550-ls9dme9"
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
+      "addedAt": 1771291649767,
+      "metadata": {
+        "layout": {
+          "gridX": 10,
+          "gridY": 5
+        }
       }
     },
     {
