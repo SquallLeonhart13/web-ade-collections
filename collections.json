@@ -282,6 +282,14 @@
         ],
         "layoutMode": "manual"
       }
+    },
+    {
+      "id": "col-1771341640282-yf2x29l",
+      "name": "Testing",
+      "icon": "FolderOpen",
+      "isDefault": false,
+      "createdAt": 1771341640282,
+      "updatedAt": 1771341640282
     }
   ]
 }
