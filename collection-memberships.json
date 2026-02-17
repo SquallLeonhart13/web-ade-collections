@@ -367,6 +367,54 @@
           "gridY": 19
         }
       }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/electron-app",
+      "addedAt": 1771342776097,
+      "metadata": {
+        "name": "electron-app",
+        "github": {
+          "id": "principal-ade/electron-app",
+          "owner": "principal-ade",
+          "name": "electron-app",
+          "stars": 0,
+          "lastUpdated": "2025-11-13T00:20:09.301Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/electron-app"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/electron-app.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 2,
+          "gridY": 2
+        }
+      }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/web-ade",
+      "addedAt": 1771342776856,
+      "metadata": {
+        "name": "web-ade",
+        "github": {
+          "id": "principal-ade/web-ade",
+          "owner": "principal-ade",
+          "name": "web-ade",
+          "stars": 0,
+          "lastUpdated": "2025-11-10T23:03:28.803Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/web-ade"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/web-ade.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 8,
+          "gridY": 2
+        }
+      }
     }
   ]
 }
