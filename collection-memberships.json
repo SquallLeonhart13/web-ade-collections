@@ -22,11 +22,6 @@
       "addedAt": 1767711633886
     },
     {
-      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711620267
-    },
-    {
       "collectionId": "col-1767711573358-inwl8wa",
       "repositoryId": "principal-ade/industry-themed-agent-driven-ui-panels",
       "addedAt": 1771270446966,
@@ -57,49 +52,6 @@
         "layout": {
           "gridX": 11,
           "gridY": 17
-        }
-      }
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711677303
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-ai-sdk-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711610086
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-backlogmd-kanban-panel",
-      "addedAt": 1771290155912,
-      "metadata": {
-        "layout": {
-          "gridX": 23,
-          "gridY": 17
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-argdown-panels",
-      "addedAt": 1771290347337,
-      "metadata": {
-        "layout": {
-          "gridX": 20,
-          "gridY": 2
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
-      "addedAt": 1771291649767,
-      "metadata": {
-        "layout": {
-          "gridX": 10,
-          "gridY": 5
         }
       }
     },
