@@ -147,28 +147,6 @@
       }
     },
     {
-      "collectionId": "col-1766602970252-188xynq",
-      "repositoryId": "principal-ade/web-ade",
-      "addedAt": 1771293582876,
-      "metadata": {
-        "layout": {
-          "gridX": 9,
-          "gridY": 5
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766602970252-188xynq",
-      "repositoryId": "principal-ade/electron-app",
-      "addedAt": 1771294870069,
-      "metadata": {
-        "layout": {
-          "gridX": 2,
-          "gridY": 2
-        }
-      }
-    },
-    {
       "collectionId": "col-1766761802534-2xzl7lz",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771295823207,
