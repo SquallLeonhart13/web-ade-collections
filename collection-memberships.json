@@ -443,6 +443,30 @@
           "gridY": 10
         }
       }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/dynamic-file-tree",
+      "addedAt": 1771343164404,
+      "metadata": {
+        "name": "dynamic-file-tree",
+        "github": {
+          "id": "principal-ade/dynamic-file-tree",
+          "owner": "principal-ade",
+          "name": "dynamic-file-tree",
+          "stars": 0,
+          "lastUpdated": "2025-10-25T22:07:32.507Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/dynamic-file-tree"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ade/dynamic-file-tree.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 17,
+          "gridY": 5
+        }
+      }
     }
   ]
 }
