@@ -281,6 +281,18 @@
           "gridY": 7
         }
       }
+    },
+    {
+      "collectionId": "col-1766761802534-2xzl7lz",
+      "repositoryId": "principal-ai/principal-view-core-library",
+      "addedAt": 1771291690162,
+      "metadata": {
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 6,
+          "gridY": 8
+        }
+      }
     }
   ]
 }
