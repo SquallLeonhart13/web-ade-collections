@@ -280,17 +280,6 @@
       }
     },
     {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "principal-ai/pixel-debate-webapp",
-      "addedAt": 1771297308208,
-      "metadata": {
-        "layout": {
-          "gridX": 34,
-          "gridY": 15
-        }
-      }
-    },
-    {
       "collectionId": "col-1766603009005-qitn25l",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771297321619,
