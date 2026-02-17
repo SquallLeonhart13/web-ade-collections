@@ -192,55 +192,6 @@
       }
     },
     {
-      "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "principal-ai/principal-view-core-library",
-      "addedAt": 1771339445300,
-      "metadata": {
-        "layout": {
-          "gridX": 13,
-          "gridY": 4
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "principal-ai/alexandria-cli",
-      "addedAt": 1771339447285,
-      "metadata": {
-        "layout": {
-          "gridX": 4,
-          "gridY": 12
-        }
-      }
-    },
-    {
-      "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "Principal-Forks/Backlog.md",
-      "addedAt": 1771339449244,
-      "metadata": {
-        "name": "Backlog.md",
-        "github": {
-          "id": "Principal-Forks/Backlog.md",
-          "owner": "Principal-Forks",
-          "name": "Backlog.md",
-          "stars": 0,
-          "lastUpdated": "2025-12-12T05:55:56.595Z",
-          "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
-          "language": "TypeScript",
-          "defaultBranch": "main",
-          "topics": [],
-          "isPublic": true,
-          "purl": "pkg:github/Principal-Forks/Backlog.md"
-        },
-        "hasViews": false,
-        "remoteUrl": "https://github.com/Principal-Forks/Backlog.md.git",
-        "layout": {
-          "gridX": 11,
-          "gridY": 14
-        }
-      }
-    },
-    {
       "collectionId": "col-1766761422406-rwinbdu",
       "repositoryId": "salasnat1/Pixel",
       "addedAt": 1771340628415,
