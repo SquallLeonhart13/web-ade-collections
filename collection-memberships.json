@@ -35,28 +35,6 @@
     },
     {
       "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-gamboy-emulator-panel",
-      "addedAt": 1771287096484,
-      "metadata": {
-        "layout": {
-          "gridX": 14,
-          "gridY": 12
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-git-sync-panels",
-      "addedAt": 1771287096489,
-      "metadata": {
-        "layout": {
-          "gridX": 11,
-          "gridY": 17
-        }
-      }
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
       "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
       "addedAt": 1771291650874,
       "metadata": {
@@ -421,6 +399,18 @@
           "gridX": 20,
           "gridY": 2
         }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-repository-composition-panels",
+      "addedAt": 1771355958802,
+      "metadata": {
+        "layout": {
+          "gridX": 2,
+          "gridY": 12
+        },
+        "regionId": "region-1771197768185-bjr7al3"
       }
     }
   ]
