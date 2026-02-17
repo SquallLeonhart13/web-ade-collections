@@ -241,17 +241,6 @@
       }
     },
     {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "principal-ai/pixel-debate-webapp",
-      "addedAt": 1771339469554,
-      "metadata": {
-        "layout": {
-          "gridX": 13,
-          "gridY": 6
-        }
-      }
-    },
-    {
       "collectionId": "col-1767296069938-ij6f4bd",
       "repositoryId": "principal-ai/Backlog-Core",
       "addedAt": 1771339905317,
@@ -298,6 +287,18 @@
           "gridX": 7,
           "gridY": 9
         }
+      }
+    },
+    {
+      "collectionId": "col-1766761422406-rwinbdu",
+      "repositoryId": "salasnat1/Pixel",
+      "addedAt": 1771340610512,
+      "metadata": {
+        "layout": {
+          "gridX": 8,
+          "gridY": 2
+        },
+        "regionId": "region-1771221173849-c3il49q"
       }
     }
   ]
