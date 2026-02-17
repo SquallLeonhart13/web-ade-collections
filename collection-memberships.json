@@ -292,19 +292,6 @@
     },
     {
       "collectionId": "col-1766603009005-qitn25l",
-      "repositoryId": "principal-ai/alexandria-cli",
-      "addedAt": 1771339439432,
-      "metadata": {
-        "layout": {
-          "gridX": 9,
-          "gridY": 12,
-          "isManuallyPositioned": true
-        },
-        "regionId": "region-1771217045346-c8s8ztc"
-      }
-    },
-    {
-      "collectionId": "col-1766603009005-qitn25l",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771339445300,
       "metadata": {
