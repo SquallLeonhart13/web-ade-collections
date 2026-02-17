@@ -288,18 +288,6 @@
           "gridY": 9
         }
       }
-    },
-    {
-      "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "salasnat1/Pixel",
-      "addedAt": 1771340610512,
-      "metadata": {
-        "layout": {
-          "gridX": 8,
-          "gridY": 2
-        },
-        "regionId": "region-1771221173849-c3il49q"
-      }
     }
   ]
 }
