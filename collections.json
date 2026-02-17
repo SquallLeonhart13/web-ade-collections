@@ -141,7 +141,7 @@
       "description": "",
       "icon": "Cpu",
       "createdAt": 1766761802534,
-      "updatedAt": 1771290128457,
+      "updatedAt": 1771295841038,
       "metadata": {
         "customRegions": [
           {
@@ -149,8 +149,15 @@
             "name": "Older",
             "order": 0,
             "createdAt": 1771290127951
+          },
+          {
+            "name": "Region 2",
+            "order": 1,
+            "id": "region-1771295840510-jao4k17",
+            "createdAt": 1771295840510
           }
-        ]
+        ],
+        "layoutMode": "manual"
       }
     },
     {
