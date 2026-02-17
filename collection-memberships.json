@@ -371,7 +371,7 @@
     {
       "collectionId": "col-1771342395808-how4jvy",
       "repositoryId": "principal-ade/web-ade",
-      "addedAt": 1771342777182,
+      "addedAt": 1771342779384,
       "metadata": {
         "name": "web-ade",
         "github": {
@@ -385,10 +385,7 @@
         },
         "hasViews": false,
         "remoteUrl": "git@github.com:principal-ade/web-ade.git",
-        "layout": {
-          "gridX": 9,
-          "gridY": 10
-        }
+        "regionId": "region-0-0"
       }
     }
   ]
