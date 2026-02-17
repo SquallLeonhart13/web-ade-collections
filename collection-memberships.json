@@ -319,6 +319,30 @@
           "gridY": 8
         }
       }
+    },
+    {
+      "collectionId": "col-1771341640282-yf2x29l",
+      "repositoryId": "principal-ai/principal-view-core-library",
+      "addedAt": 1771341657002,
+      "metadata": {
+        "name": "principal-view-core-library",
+        "github": {
+          "id": "principal-ai/principal-view-core-library",
+          "owner": "principal-ai",
+          "name": "principal-view-core-library",
+          "stars": 0,
+          "lastUpdated": "2025-12-10T04:31:04.135Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ai/principal-view-core-library"
+        },
+        "hasViews": false,
+        "remoteUrl": "git@github.com:principal-ai/principal-view-core-library.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 2,
+          "gridY": 2
+        }
+      }
     }
   ]
 }
