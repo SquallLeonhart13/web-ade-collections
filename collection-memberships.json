@@ -418,30 +418,6 @@
     },
     {
       "collectionId": "col-1771342395808-how4jvy",
-      "repositoryId": "principal-ade/panel-framework",
-      "addedAt": 1771351384688,
-      "metadata": {
-        "name": "panel-framework",
-        "github": {
-          "id": "principal-ade/panel-framework",
-          "owner": "principal-ade",
-          "name": "panel-framework",
-          "stars": 0,
-          "lastUpdated": "2025-10-29T12:19:24.107Z",
-          "isPublic": false,
-          "purl": "pkg:github/principal-ade/panel-framework"
-        },
-        "hasViews": false,
-        "remoteUrl": "git@github.com:principal-ade/panel-framework.git",
-        "regionId": "region-0-0",
-        "layout": {
-          "gridX": 11,
-          "gridY": 18
-        }
-      }
-    },
-    {
-      "collectionId": "col-1771342395808-how4jvy",
       "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
       "addedAt": 1771351485798,
       "metadata": {
