@@ -295,18 +295,6 @@
     },
     {
       "collectionId": "col-1766761422406-rwinbdu",
-      "repositoryId": "salasnat1/Pixel",
-      "addedAt": 1771341518985,
-      "metadata": {
-        "layout": {
-          "gridX": 4,
-          "gridY": 8
-        },
-        "regionId": "region-1771221173849-c3il49q"
-      }
-    },
-    {
-      "collectionId": "col-1766761422406-rwinbdu",
       "repositoryId": "principal-ai/pixel-debate-webapp",
       "addedAt": 1771341521859,
       "metadata": {
