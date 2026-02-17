@@ -37,9 +37,34 @@
       "addedAt": 1767296094674
     },
     {
+      "repositoryId": "principal-ade/industry-themed-agent-activity-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711597227
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-ai-sdk-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711610086
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-alexandria-docs-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711613409
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711620267
+    },
+    {
       "repositoryId": "principal-ade/industry-themed-code-city-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711628665
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-code-quality-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711631019
     },
     {
       "repositoryId": "principal-ade/industry-themed-codebase-composition-panels",
@@ -47,9 +72,34 @@
       "addedAt": 1767711633886
     },
     {
-      "repositoryId": "principal-ade/industry-themed-git-panels",
+      "repositoryId": "principal-ade/industry-themed-excalidraw-panels",
       "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711679555
+      "addedAt": 1767711654223
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711677303
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-github-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711684778
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-principal-view-panels",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711694096
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-ps-one-emulator-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711697271
+    },
+    {
+      "repositoryId": "principal-ade/industry-themed-theme-editor-panel",
+      "collectionId": "col-1767711573358-inwl8wa",
+      "addedAt": 1767711704234
     },
     {
       "collectionId": "col-1766603009005-qitn25l",
@@ -74,11 +124,6 @@
           "isManuallyPositioned": true
         }
       }
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-markdown-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711690310
     },
     {
       "collectionId": "col-1767296069938-ij6f4bd",
@@ -159,11 +204,6 @@
       }
     },
     {
-      "repositoryId": "principal-ade/industry-themed-file-city-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711664095
-    },
-    {
       "collectionId": "col-1766603009005-qitn25l",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771286125876,
@@ -173,11 +213,6 @@
           "gridY": 2
         }
       }
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-gamboy-emulator-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711674603
     },
     {
       "collectionId": "col-1767711573358-inwl8wa",
@@ -191,23 +226,68 @@
       }
     },
     {
-      "repositoryId": "principal-ade/industry-themed-git-sync-panels",
       "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711682422
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-repository-composition-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711701231
-    },
-    {
-      "collectionId": "col-1767711573358-inwl8wa",
-      "repositoryId": "principal-ade/industry-themed-argdown-panels",
-      "addedAt": 1771287096179,
+      "addedAt": 1771287096475,
       "metadata": {
         "layout": {
-          "gridX": 5,
-          "gridY": 7
+          "gridX": 20,
+          "gridY": 22
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-gamboy-emulator-panel",
+      "addedAt": 1771287096484,
+      "metadata": {
+        "layout": {
+          "gridX": 14,
+          "gridY": 12
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-git-sync-panels",
+      "addedAt": 1771287096489,
+      "metadata": {
+        "layout": {
+          "gridX": 11,
+          "gridY": 17
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-file-editing-panels",
+      "addedAt": 1771287096586,
+      "metadata": {
+        "layout": {
+          "gridX": 8,
+          "gridY": 12
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-file-city-panels",
+      "addedAt": 1771287096609,
+      "metadata": {
+        "layout": {
+          "gridX": 2,
+          "gridY": 12
+        }
+      }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-xterm-terminal-panel",
+      "addedAt": 1771287096624,
+      "metadata": {
+        "layout": {
+          "gridX": 0,
+          "gridY": 0
         }
       }
     }
