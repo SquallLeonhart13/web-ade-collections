@@ -300,6 +300,17 @@
         },
         "regionId": "region-1771221173849-c3il49q"
       }
+    },
+    {
+      "collectionId": "col-1766761422406-rwinbdu",
+      "repositoryId": "principal-ai/pixel-debate-webapp",
+      "addedAt": 1771339469554,
+      "metadata": {
+        "layout": {
+          "gridX": 13,
+          "gridY": 6
+        }
+      }
     }
   ]
 }
