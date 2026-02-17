@@ -307,7 +307,17 @@
       "icon": "FolderOpen",
       "isDefault": false,
       "createdAt": 1771342395808,
-      "updatedAt": 1771342395808
+      "updatedAt": 1771342414756,
+      "metadata": {
+        "customRegions": [
+          {
+            "id": "region-0-0",
+            "name": "Older",
+            "order": 0,
+            "createdAt": 1771342414206
+          }
+        ]
+      }
     }
   ]
 }
