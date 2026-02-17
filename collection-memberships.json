@@ -22,11 +22,6 @@
       "addedAt": 1767296094674
     },
     {
-      "repositoryId": "principal-ade/industry-themed-agent-activity-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711597227
-    },
-    {
       "repositoryId": "principal-ade/industry-themed-code-city-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711628665
@@ -35,26 +30,6 @@
       "repositoryId": "principal-ade/industry-themed-agent-activity-panels",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711597227
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711620267
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-alexandria-entry-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711620267
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-ps-one-emulator-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711697271
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-principal-view-panels",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711694096
     },
     {
       "repositoryId": "principal-ade/industry-themed-ps-one-emulator-panel",
@@ -82,11 +57,6 @@
       "repositoryId": "principal-ade/industry-themed-theme-editor-panel",
       "collectionId": "col-1767711573358-inwl8wa",
       "addedAt": 1767711704234
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711677303
     },
     {
       "collectionId": "col-1767711573358-inwl8wa",
@@ -134,11 +104,6 @@
       }
     },
     {
-      "repositoryId": "principal-ade/industry-themed-ai-sdk-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711610086
-    },
-    {
       "collectionId": "col-1767711573358-inwl8wa",
       "repositoryId": "principal-ade/industry-themed-git-sync-panels",
       "addedAt": 1771287096489,
@@ -159,11 +124,6 @@
           "gridY": 22
         }
       }
-    },
-    {
-      "repositoryId": "principal-ade/industry-themed-ghostty-terminal-panel",
-      "collectionId": "col-1767711573358-inwl8wa",
-      "addedAt": 1767711677303
     },
     {
       "collectionId": "col-1766761422406-rwinbdu",
