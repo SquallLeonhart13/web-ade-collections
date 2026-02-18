@@ -469,6 +469,18 @@
           "gridY": 12
         }
       }
+    },
+    {
+      "collectionId": "col-1767711573358-inwl8wa",
+      "repositoryId": "principal-ade/industry-themed-repository-composition-panels",
+      "addedAt": 1771384294291,
+      "metadata": {
+        "layout": {
+          "gridX": 9,
+          "gridY": 16
+        },
+        "regionId": "region-1771197768185-bjr7al3"
+      }
     }
   ]
 }
