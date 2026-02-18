@@ -481,6 +481,30 @@
           "gridY": 17
         }
       }
+    },
+    {
+      "collectionId": "col-1771342395808-how4jvy",
+      "repositoryId": "principal-ade/industry-themed-xterm-terminal-panel",
+      "addedAt": 1771392761240,
+      "metadata": {
+        "name": "industry-themed-xterm-terminal-panel",
+        "github": {
+          "id": "principal-ade/industry-themed-xterm-terminal-panel",
+          "owner": "principal-ade",
+          "name": "industry-themed-xterm-terminal-panel",
+          "stars": 0,
+          "lastUpdated": "2025-12-01T16:16:56.665Z",
+          "isPublic": false,
+          "purl": "pkg:github/principal-ade/industry-themed-xterm-terminal-panel"
+        },
+        "hasViews": false,
+        "remoteUrl": "https://github.com/principal-ade/industry-themed-xterm-terminal-panel.git",
+        "regionId": "region-0-0",
+        "layout": {
+          "gridX": 10,
+          "gridY": 15
+        }
+      }
     }
   ]
 }
