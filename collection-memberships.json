@@ -495,6 +495,18 @@
         },
         "regionId": "region-1771217045346-c8s8ztc"
       }
+    },
+    {
+      "collectionId": "col-1766602970252-188xynq",
+      "repositoryId": "principal-ade/electron-app",
+      "addedAt": 1771394028416,
+      "metadata": {
+        "layout": {
+          "gridX": 8,
+          "gridY": 8
+        },
+        "regionId": "region-1771253970730-2g2wsz1"
+      }
     }
   ]
 }
