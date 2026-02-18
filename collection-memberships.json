@@ -233,17 +233,6 @@
       }
     },
     {
-      "collectionId": "col-1766602970252-188xynq",
-      "repositoryId": "principal-ade/electron-app",
-      "addedAt": 1771341611485,
-      "metadata": {
-        "layout": {
-          "gridX": 8,
-          "gridY": 8
-        }
-      }
-    },
-    {
       "collectionId": "col-1771341640282-yf2x29l",
       "repositoryId": "principal-ai/principal-view-core-library",
       "addedAt": 1771341679163,
