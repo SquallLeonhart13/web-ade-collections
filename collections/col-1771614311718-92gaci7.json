@@ -6,7 +6,18 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771614311717,
-    "members": []
+    "updatedAt": 1771883887400,
+    "members": [],
+    "metadata": {
+      "customRegions": [
+        {
+          "name": "Main",
+          "order": 0,
+          "createdAt": 1771883887400,
+          "id": "857c03df-7301-46b4-abd4-0111fb104764"
+        }
+      ],
+      "layoutMode": "manual"
+    }
   }
 }
