@@ -6,18 +6,13 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771886766062,
-    "members": [],
-    "metadata": {
-      "customRegions": [
-        {
-          "name": "Main",
-          "order": 0,
-          "createdAt": 1771886766062,
-          "id": "fb906f20-b215-4e15-8fdc-465708e9405b"
-        }
-      ],
-      "layoutMode": "manual"
-    }
+    "updatedAt": 1771614311717,
+    "members": [
+      {
+        "repositoryId": "principal-ai/agent-mail-core",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771886767400
+      }
+    ]
   }
 }
