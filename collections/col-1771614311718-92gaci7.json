@@ -6,7 +6,24 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771614311717,
-    "members": []
+    "updatedAt": 1771887526399,
+    "members": [
+      {
+        "repositoryId": "SquallLeonhart13/agent-skills",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771889469551
+      }
+    ],
+    "metadata": {
+      "customRegions": [
+        {
+          "name": "Main",
+          "order": 0,
+          "createdAt": 1771887526399,
+          "id": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
+        }
+      ],
+      "layoutMode": "manual"
+    }
   }
 }
