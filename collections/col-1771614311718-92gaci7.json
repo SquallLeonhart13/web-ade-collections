@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771905816505,
+    "updatedAt": 1771905872436,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -70,6 +70,27 @@
           "layout": {
             "gridX": 12,
             "gridY": 10
+          },
+          "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
+        }
+      },
+      {
+        "repositoryId": "openclaw/openclaw",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771905872436,
+        "metadata": {
+          "name": "openclaw",
+          "path": "openclaw/openclaw",
+          "owner": "openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+          "language": "TypeScript",
+          "stars": 222056,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/openclaw/openclaw",
+          "cloneUrl": "https://github.com/openclaw/openclaw.git",
+          "layout": {
+            "gridX": 14,
+            "gridY": 4
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
