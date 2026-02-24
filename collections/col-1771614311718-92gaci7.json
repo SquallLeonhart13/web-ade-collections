@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771905927885,
+    "updatedAt": 1771906020153,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -111,6 +111,27 @@
           "cloneUrl": "https://github.com/vercel/next.js.git",
           "layout": {
             "gridX": 19,
+            "gridY": 12
+          },
+          "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
+        }
+      },
+      {
+        "repositoryId": "anomalyco/opencode",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771906020153,
+        "metadata": {
+          "name": "opencode",
+          "path": "anomalyco/opencode",
+          "owner": "anomalyco",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 109324,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/anomalyco/opencode",
+          "cloneUrl": "https://github.com/anomalyco/opencode.git",
+          "layout": {
+            "gridX": 7,
             "gridY": 12
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
