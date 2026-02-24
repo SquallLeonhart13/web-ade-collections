@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771904131951,
+    "updatedAt": 1771904188778,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -30,6 +30,27 @@
             "gridX": 8,
             "gridY": 2
           }
+        }
+      },
+      {
+        "repositoryId": "principal-ai/principal-view-core-library",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771904188778,
+        "metadata": {
+          "name": "principal-view-core-library",
+          "path": "principal-ai/principal-view-core-library",
+          "owner": "principal-ai",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 0,
+          "isPrivate": true,
+          "htmlUrl": "https://github.com/principal-ai/principal-view-core-library",
+          "cloneUrl": "https://github.com/principal-ai/principal-view-core-library.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 9
+          },
+          "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
       }
     ],
