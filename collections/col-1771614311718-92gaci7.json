@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771904222818,
+    "updatedAt": 1771904374998,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -15,8 +15,8 @@
         "metadata": {
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc",
           "layout": {
-            "gridX": 2,
-            "gridY": 2
+            "gridX": 4,
+            "gridY": 6
           }
         }
       },
