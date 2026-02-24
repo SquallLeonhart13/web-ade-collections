@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1771905888451,
+    "updatedAt": 1771905927885,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -91,6 +91,27 @@
           "layout": {
             "gridX": 14,
             "gridY": 4
+          },
+          "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
+        }
+      },
+      {
+        "repositoryId": "vercel/next.js",
+        "collectionId": "col-1771614311718-92gaci7",
+        "addedAt": 1771905927885,
+        "metadata": {
+          "name": "next.js",
+          "path": "vercel/next.js",
+          "owner": "vercel",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 137932,
+          "isPrivate": false,
+          "htmlUrl": "https://github.com/vercel/next.js",
+          "cloneUrl": "https://github.com/vercel/next.js.git",
+          "layout": {
+            "gridX": 19,
+            "gridY": 12
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
