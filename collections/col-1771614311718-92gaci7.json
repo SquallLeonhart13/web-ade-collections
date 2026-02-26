@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772125268332,
+    "updatedAt": 1772129214605,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -48,7 +48,7 @@
           "cloneUrl": "https://github.com/principal-ai/principal-view-core-library.git",
           "layout": {
             "gridX": 14,
-            "gridY": 17
+            "gridY": 20
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
