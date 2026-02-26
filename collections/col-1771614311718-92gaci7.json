@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772125228788,
+    "updatedAt": 1772125268332,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -152,8 +152,8 @@
           "htmlUrl": "https://github.com/HKUDS/ClawWork",
           "cloneUrl": "https://github.com/HKUDS/ClawWork.git",
           "layout": {
-            "gridX": 18,
-            "gridY": 17
+            "gridX": 21,
+            "gridY": 18
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
