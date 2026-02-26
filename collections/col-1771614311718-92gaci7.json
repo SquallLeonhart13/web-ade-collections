@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772042145793,
+    "updatedAt": 1772125228788,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -89,7 +89,7 @@
           "htmlUrl": "https://github.com/openclaw/openclaw",
           "cloneUrl": "https://github.com/openclaw/openclaw.git",
           "layout": {
-            "gridX": 14,
+            "gridX": 18,
             "gridY": 4
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
