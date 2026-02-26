@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772148264165,
+    "updatedAt": 1772148276716,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -110,7 +110,7 @@
           "htmlUrl": "https://github.com/vercel/next.js",
           "cloneUrl": "https://github.com/vercel/next.js.git",
           "layout": {
-            "gridX": 19,
+            "gridX": 21,
             "gridY": 12
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
