@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772208055358,
+    "updatedAt": 1772208058079,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -132,7 +132,7 @@
           "cloneUrl": "https://github.com/anomalyco/opencode.git",
           "layout": {
             "gridX": 5,
-            "gridY": 14
+            "gridY": 18
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
