@@ -6,7 +6,7 @@
     "description": "",
     "icon": "FolderOpen",
     "createdAt": 1771614311717,
-    "updatedAt": 1772163254556,
+    "updatedAt": 1772208049790,
     "members": [
       {
         "repositoryId": "SquallLeonhart13/agent-skills",
@@ -69,7 +69,7 @@
           "cloneUrl": "https://github.com/MrLesk/Backlog.md.git",
           "layout": {
             "gridX": 13,
-            "gridY": 14
+            "gridY": 12
           },
           "regionId": "04084cc9-aec4-4c08-9d16-7dff7775f9bc"
         }
